@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace IntrviewQA
+namespace InterviewQA
 {
     public class ConstReadonlyStatic
     {
@@ -11,9 +11,9 @@ namespace IntrviewQA
         //it is mandatory to assign value to const
         //const string co1;
         readonly string ro = "readonly";
-        readonly string ro1;
+        readonly string? ro1;
         readonly static string rs = "readonly static";
-        readonly static string rs1;
+        readonly static string? rs1;
         //non readonly static can be set everywhere
         static string rs2;
 

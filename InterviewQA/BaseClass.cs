@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace IntrviewQA
+namespace InterviewQA
 {
     public class BaseClass
     {
@@ -22,6 +22,16 @@ namespace IntrviewQA
         public virtual void ChildClass1Method()
         {
             System.Console.WriteLine("from BaseClass");
+        }
+
+        public int Sum(int a, int b)
+        {
+            return a + b;
+        }
+
+        public long Sum(long a, int b)
+        {
+            return a + b;
         }
     }
 }

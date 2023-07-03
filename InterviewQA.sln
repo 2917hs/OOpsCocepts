@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1705.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntrviewQA", "IntrviewQA\IntrviewQA.csproj", "{C47AF8BE-6FEF-4D28-9DF3-AC4B8C6F7DE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewQA", "InterviewQA\InterviewQA.csproj", "{C47AF8BE-6FEF-4D28-9DF3-AC4B8C6F7DE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

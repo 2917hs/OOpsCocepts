@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.Win32.SafeHandles;
 using System.Runtime.InteropServices;
 
-namespace IntrviewQA
+namespace InterviewQA
 {
     /*
     It is always recommended to use Dispose method to clean 
